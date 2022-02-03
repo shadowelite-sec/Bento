@@ -64,9 +64,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'Udemy',
+      icon: 'book',
+      link: 'https://www.udemy.com/home/my-courses/learning/',
     },
     {
       id: '6',
